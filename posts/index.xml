@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://JohnRothan.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 19:56:54 +0800</lastBuildDate><atom:link href="https://JohnRothan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://JohnRothan.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Feb 2022 19:56:54 +0800</pubDate>
+      
+      <guid>https://JohnRothan.github.io/posts/my-first-post/</guid>
+      <description>在数据库系统中，逻辑类型和实际存储的类型往往不会是一一对应的关系。举例，CHAR 和 VARCHAR 是两种不同的逻辑类型，但大多数数据库系统对于这两种类型都会用同一种内存表示。在前几天的类型体操中，我们实现的类型都是实际类型 (Physical Type)。在今天，我们将会把逻辑类型和实际类型关联起来，并批量生成表达式。
+法规不规范的男女多娜多娜 急急急  cf 白帝水宫  多少分    vdfvdfvjbfjkvbdfvknsvl. 命令命令开门；改密码，个让他体会</description>
+    </item>
+    
+  </channel>
+</rss>
